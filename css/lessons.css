@@ -17,3 +17,13 @@ ul.flex . li {
 margin-bottom: 10px;
 } 
 
+
+code {
+  font-size: 16px;
+  background: dodgerblue;
+  color: #fff;
+  padding: 2px;
+  line-height: 1.6em;
+  white-space: break-spaces;
+     }
+     
