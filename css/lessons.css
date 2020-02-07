@@ -27,3 +27,7 @@ code {
   white-space: break-spaces;
      }
      
+ol {
+padding-inline-start: 20px;
+
+}
