@@ -12,3 +12,8 @@ list-style: none;
 flex-direction: column;
  
 }
+
+ul.flex . li {
+margin-bottom: 10px;
+} 
+
