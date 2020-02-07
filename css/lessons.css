@@ -17,8 +17,14 @@ ul.flex > li {
 margin-bottom: 10px;
 } 
 
+.code_block {
+ display:block;
+ white-space:normal;
+ width:100%;
+ line-height:1em;
+}
 
-code {
+.code_space {
   font-size: 16px;
   background: dodgerblue;
   color: #fff;
