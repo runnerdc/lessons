@@ -1,8 +1,14 @@
 body {
  font-family: sans-serif;
+ cursor: pointer;
 }
 .flex {
 display: flex;
 padding: 0px;
 list-style: none;
+}
+
+.flex_column {
+flex-direction: column;
+ 
 }
